@@ -58,4 +58,4 @@ Helps parents, teachers, and researchers understand kids’ digital consumption.
 Supports policy makers in promoting healthier screen usage.
 Serves as a portfolio project in analytics & data visualization.
 
-<img width="1311" height="732" alt="indian_kids_screentime_dashbord_img" src="https://github.com/Monika-cod/Kids_screenTime/commit/8b517d665101914228da4c157691dca8e212ec18" />
+https://github.com/Monika-cod/Kids_screenTime/blob/main/kids_Screentime.img.png
